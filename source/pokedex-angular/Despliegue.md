@@ -55,4 +55,4 @@ En el contexto actual de la tecnología, el software, apps, la protección, la s
 **¿Qué desafios encontraste en el proceso?**
 Problemas con los headers, ya que son esenciales para la seguridad, mi desafio fue que al configurarlos me dañaban el despliegue de la app con un error 500 (fallo del lado del servidor)
 
-Error en las imagenes, las imagenes no se mostraban en el inicio de la página, solo en la página detalle
+Error en las imagenes, las imagenes no se muestran al inicio
