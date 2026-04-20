@@ -55,4 +55,24 @@ En el contexto actual de la tecnología, el software, apps, la protección, la s
 **¿Qué desafios encontraste en el proceso?**
 Problemas con los headers, ya que son esenciales para la seguridad, mi desafio fue que al configurarlos me dañaban el despliegue de la app con un error 500 (fallo del lado del servidor)
 
-Error en las imagenes, las imagenes no se muestran al inicio
+Error en la aparición de los sprites, se solucionó insertando en las cabeceras de seguridad la cabecera que me permitía mostrar los sprites.
+
+### Capturas
+**Configuación final del recurso**
+<img width="1664" height="644" alt="Screenshot 2026-04-20 at 16 18 20" src="https://github.com/user-attachments/assets/364d89b2-f75c-4e6e-aea6-f23f3f46614b" />
+
+**App Desplegada**
+<img width="1241" height="952" alt="Screenshot 2026-04-20 at 16 19 49" src="https://github.com/user-attachments/assets/d20300f5-2eb1-4eb0-a744-6de1da329772" />
+
+<img width="1647" height="961" alt="Screenshot 2026-04-20 at 16 20 26" src="https://github.com/user-attachments/assets/621b24a4-ebe0-4b5b-b2b5-e560c08326d5" />
+
+**Scaneado de la URL**
+<img width="1196" height="943" alt="Screenshot 2026-04-20 at 16 21 03" src="https://github.com/user-attachments/assets/10e4fa03-5d96-4fd5-8725-8d5aaf2655b7" />
+
+**Historial de Actions**<img width="1479" height="824" alt="Screenshot 2026-04-20 at 16 26 12" src="https://github.com/user-attachments/assets/a0f5937b-a3ef-4730-aa4a-e4cd3936dd84" />
+
+**Historial de Commits**
+<img width="1275" height="905" alt="Screenshot 2026-04-20 at 16 24 01" src="https://github.com/user-attachments/assets/25c6b38d-2263-4e5c-a7b5-e6f733f721fa" />
+
+<img width="1415" height="523" alt="Screenshot 2026-04-20 at 16 27 00" src="https://github.com/user-attachments/assets/5957de1f-1dae-4a73-a3cd-14009ba84f38" />
+
