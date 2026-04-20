@@ -23,6 +23,9 @@ Se agreagaron los siguientes headers:
 - Content-Security-Policy
 - X-Frame-Options
 - Permissions-Policy
+<img width="1680" height="1050" alt="Screenshot 2026-04-20 at 16 59 21" src="https://github.com/user-attachments/assets/4215ee91-30fb-4656-95a5-85416e34bfa7" />
+
+
 
 ### 4. Creación de Static Web App
 1. Dar click en el apartado Static Web App
