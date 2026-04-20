@@ -26,7 +26,7 @@ Se agreagaron los siguientes headers:
 
 ### 4. Creación de Static Web App
 1. Dar click en el apartado Static Web App
-<img width="1415" height="523" alt="Screenshot 2026-04-20 at 16 27 00" src="https://github.com/user-attachments/assets/5957de1f-1dae-4a73-a3cd-14009ba84f38" />
+<img width="1132" height="468" alt="Screenshot 2026-04-20 at 16 42 57" src="https://github.com/user-attachments/assets/5ae2bea9-1b91-4862-8183-e1a53517d7d1" />
    
 2. Dar click en crear
 <img width="898" height="308" alt="Screenshot 2026-04-20 at 16 43 40" src="https://github.com/user-attachments/assets/e6869288-bf29-43c6-a03d-c4861cc6bc11" />
