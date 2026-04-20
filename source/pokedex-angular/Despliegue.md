@@ -1,4 +1,3 @@
-<img width="1132" height="468" alt="Screenshot 2026-04-20 at 16 42 57" src="https://github.com/user-attachments/assets/5ae2bea9-1b91-4862-8183-e1a53517d7d1" />
 # Despliegue de la Pokedex en Azure
 Proyecto: Pokedex Angular
 Plataforma: Microsoft Azure
