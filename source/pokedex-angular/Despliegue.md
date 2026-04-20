@@ -10,9 +10,9 @@ Repositorio: https://github.com/AmauryArteagaData/pokedex-2/tree/main
 
 ### 2. Clonación del repositorio
 Use los comandos 
-git clone https://github.com/AmauryArteagaData/pokedex-2.git
-npm install
-ng serve (para correr el programa)
+- git clone https://github.com/AmauryArteagaData/pokedex-2.git
+- npm install (gestiona paquetes, librerias de tu proyecto para funcionar)
+- ng serve (para correr el programa)
 
 ### 3. Configuración de Seguridad
 Se crea el archivo **staticwebapp.config.json** para agregar los headers de seguridad.
@@ -24,8 +24,6 @@ Se agreagaron los siguientes headers:
 - X-Frame-Options
 - Permissions-Policy
 <img width="1680" height="1050" alt="Screenshot 2026-04-20 at 16 59 21" src="https://github.com/user-attachments/assets/4215ee91-30fb-4656-95a5-85416e34bfa7" />
-
-
 
 ### 4. Creación de Static Web App
 1. Dar click en el apartado Static Web App
@@ -39,7 +37,6 @@ Se agreagaron los siguientes headers:
 
 4. Luego coloque el nombre de la App usando la convención establecida por Azure
 <img width="707" height="89" alt="Screenshot 2026-04-20 at 16 47 28" src="https://github.com/user-attachments/assets/22813390-8f93-4e4d-b2ef-811b7d76fa45" />
-
 
 5. Luego en **Plan Type** click en **free** para que sea gratuito el despliegue
 <img width="667" height="134" alt="Screenshot 2026-04-20 at 16 47 53" src="https://github.com/user-attachments/assets/f3cef627-3525-401c-8b41-25f68c58e0f6" />
@@ -80,6 +77,7 @@ En el contexto actual de la tecnología, el software, apps, la protección, la s
 Problemas con los headers, ya que son esenciales para la seguridad, mi desafio fue que al configurarlos me dañaban el despliegue de la app con un error 500 (fallo del lado del servidor)
 
 Error en la aparición de los sprites, se solucionó insertando en las cabeceras de seguridad la cabecera que me permitía mostrar los sprites.
+<img width="487" height="50" alt="Screenshot 2026-04-20 at 18 02 14" src="https://github.com/user-attachments/assets/8d81f9b6-8e3c-49cf-bf50-47f07517614a" />
 
 ### Capturas
 **Configuación final del recurso**
