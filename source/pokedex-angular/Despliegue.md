@@ -1,3 +1,4 @@
+<img width="1132" height="468" alt="Screenshot 2026-04-20 at 16 42 57" src="https://github.com/user-attachments/assets/5ae2bea9-1b91-4862-8183-e1a53517d7d1" />
 # Despliegue de la Pokedex en Azure
 Proyecto: Pokedex Angular
 Plataforma: Microsoft Azure
@@ -26,20 +27,41 @@ Se agreagaron los siguientes headers:
 
 ### 4. Creación de Static Web App
 1. Dar click en el apartado Static Web App
+<img width="1415" height="523" alt="Screenshot 2026-04-20 at 16 27 00" src="https://github.com/user-attachments/assets/5957de1f-1dae-4a73-a3cd-14009ba84f38" />
+   
 2. Dar click en crear
+<img width="898" height="308" alt="Screenshot 2026-04-20 at 16 43 40" src="https://github.com/user-attachments/assets/e6869288-bf29-43c6-a03d-c4861cc6bc11" />
+ 
 3. Dar click en crear **new resource group** para crear un nuevo grupo de recursos
+<img width="708" height="182" alt="Screenshot 2026-04-20 at 16 46 54" src="https://github.com/user-attachments/assets/19b0440d-48d8-42cd-8478-d513d78e3489" />
+
 4. Luego coloque el nombre de la App usando la convención establecida por Azure
+<img width="707" height="89" alt="Screenshot 2026-04-20 at 16 47 28" src="https://github.com/user-attachments/assets/22813390-8f93-4e4d-b2ef-811b7d76fa45" />
+
+
 5. Luego en **Plan Type** click en **free** para que sea gratuito el despliegue
+<img width="667" height="134" alt="Screenshot 2026-04-20 at 16 47 53" src="https://github.com/user-attachments/assets/f3cef627-3525-401c-8b41-25f68c58e0f6" />
+
 6. Asegurese de tener su cuenta de Github para enlazar con Azure
+<img width="528" height="142" alt="Screenshot 2026-04-20 at 16 48 27" src="https://github.com/user-attachments/assets/4b92611a-9d1f-402b-ac73-0dca5a71f987" />
+
 7. En Organización elige su cuenta de Github
-8. Le aparecerán los repositorios que tiene, elija el repositorio
-9. Seleccione la rama, en este caso **main**
-10. Luego en App Location agregue la ruta del proyecto
-11. En Api Location dejelo en blanco
-12. Luego en Output coloque la ruta de los archivos compilados listos para servir al navegador
-13. Click en **review + create**
-14. Luego le da en **Go to resource** allí le mostrará los detalles del recurso ya creado
-15. Espere unos 2 minutos hasta que en Github Actions establezca la conexión para desplegar la app
+<img width="700" height="124" alt="Screenshot 2026-04-20 at 16 49 01" src="https://github.com/user-attachments/assets/1977f952-e6af-4ead-a1e5-5b13e77a9771" />
+
+11. Le aparecerán los repositorios que tiene, elija el repositorio
+<img width="700" height="124" alt="Screenshot 2026-04-20 at 16 49 01" src="https://github.com/user-attachments/assets/1977f952-e6af-4ead-a1e5-5b13e77a9771" />
+
+12. Seleccione la rama, en este caso **main 0 master**
+13. Luego en App Location agregue la ruta del proyecto
+14. En Api Location dejelo en blanco
+15. Luego en Output coloque la ruta de los archivos compilados listos para servir al navegador
+<img width="706" height="288" alt="Screenshot 2026-04-20 at 16 53 16" src="https://github.com/user-attachments/assets/8127773e-011e-4829-b9d8-517abfe96e9b" />
+
+16. Click en **review + create**
+<img width="529" height="53" alt="Screenshot 2026-04-20 at 16 53 40" src="https://github.com/user-attachments/assets/5fd42ba9-040b-487b-9359-3239071646c3" />
+
+18. Luego le da en **Go to resource** allí le mostrará los detalles del recurso ya creado
+28. Espere unos 2 minutos hasta que en Github Actions establezca la conexión para desplegar la app
 
 # Reflexión Técnica
 **¿Qué vulnerabilidades previenen los encabezados implementados?**
@@ -74,5 +96,5 @@ Error en la aparición de los sprites, se solucionó insertando en las cabeceras
 **Historial de Commits**
 <img width="1275" height="905" alt="Screenshot 2026-04-20 at 16 24 01" src="https://github.com/user-attachments/assets/25c6b38d-2263-4e5c-a7b5-e6f733f721fa" />
 
-<img width="1415" height="523" alt="Screenshot 2026-04-20 at 16 27 00" src="https://github.com/user-attachments/assets/5957de1f-1dae-4a73-a3cd-14009ba84f38" />
+
 
