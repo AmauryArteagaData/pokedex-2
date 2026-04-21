@@ -1,7 +1,7 @@
 # Despliegue de la Pokedex en Azure
 Proyecto: Pokedex Angular
 Plataforma: Microsoft Azure
-Repositorio: https://github.com/AmauryArteagaData/pokedex-2/tree/main
+Repositorio: https://github.com/AmauryArteagaData/pokedex-2
 
 ### 1. Requisitos previos
 - Node.js >= 14
